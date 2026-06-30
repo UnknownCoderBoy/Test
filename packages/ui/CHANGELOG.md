@@ -1,5 +1,11 @@
 # @repo/ui
 
+## 1.0.0
+
+### Major Changes
+
+- 5d63864: Your changeset major
+
 ## 0.1.0
 
 ### Minor Changes
