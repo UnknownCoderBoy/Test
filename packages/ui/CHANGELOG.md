@@ -1,5 +1,11 @@
 # @repotest/ui
 
+## 1.0.5
+
+### Patch Changes
+
+- fd7c837: Your changeset
+
 ## 1.0.4
 
 ### Patch Changes
