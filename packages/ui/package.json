@@ -5,7 +5,7 @@
   "types": "./dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/UnknownCoderBoy/Test",
+    "url": "https://github.com/TechThrives/Test",
     "directory": "packages/ui"
   },
   "exports": {
